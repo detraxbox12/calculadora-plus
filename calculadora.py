@@ -106,6 +106,9 @@ while True:
     else:
         print("Opción inválida")
 
+    print("funcion promedio mejorada")
+
+    
 
 
 
